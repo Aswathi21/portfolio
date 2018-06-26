@@ -1,0 +1,1 @@
+<?php readfile("NavigationBar.html"); ?>
